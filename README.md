@@ -1,0 +1,1 @@
+This is a sample project to demo ci-cd using jenkins, maven, docker and deploy to aws cloud 
